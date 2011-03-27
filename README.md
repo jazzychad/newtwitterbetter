@@ -1,3 +1,5 @@
+*PLEASE NOTE: The filename of the userscript should be newtwitterbetter.user.js (not _user.js), I had to rename it for the git repo so that browsers would not try to auto-install the script when simply browsing the code*
+
 # New Twitter Better
 ---
 
